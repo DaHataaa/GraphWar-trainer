@@ -1,6 +1,12 @@
 # GraphWar-trainer
 A simple GW trainer containing linear and power functions
 
+Required python libs:
+1. pygame
+2. pyautogui
+3. pyperclip
+4. pillow
+
 Getting started:
 1. Open GraphWar and start the game.
 2. Open GraphWar trainer, making sure the GraphWar window is fully visible.
